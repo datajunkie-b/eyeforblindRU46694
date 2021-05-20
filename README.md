@@ -1,1 +1,2 @@
-# eyeforblindRU46694
+Capstone project: Object Detection using Tensor flow
+
